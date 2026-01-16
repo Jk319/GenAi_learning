@@ -71,4 +71,4 @@ This approach helps me stay **consistent and practice-oriented**.
 
 This repository is actively maintained and will continue to grow as I explore advanced Generative AI topics and build larger projects.
 
-⭐ Feel free to explore and follow my progress!.
+⭐ Feel free to explore and follow my progress!
